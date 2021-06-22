@@ -20,3 +20,4 @@ The Javascript includes the live time of the clock.
 
 https://smithrbg.github.io/Clock/
 
+credit for idea: https://www.youtube.com/watch?v=Li2apfUzKeE
