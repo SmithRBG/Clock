@@ -1,6 +1,6 @@
 # Clock
 
-## Code
+## Analog Clock
 
 ### HTML
 ```
